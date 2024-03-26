@@ -292,6 +292,7 @@ vot analysis seqtrackv2_b256 --nocache
 ## Model Zoo
 The trained models, and the raw tracking results are provided in the [model zoo](MODEL_ZOO.md)
 
-
+## Contact
+* Xin Chen (email:chenxin3131@mail.dlut.edu.cn)
 
 
